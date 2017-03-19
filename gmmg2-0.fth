@@ -71,7 +71,7 @@ CR CR
 
 : g-m   f/ fdup CR CR  f. ." moles of element A "
     CR CR
-    ." Next, please enter the ratio of element B to element A, inputting B first and A second: B A
+    ." Next, please enter the ratio of element B to element A, inputting B first and A second: B A "
     CR
     ." Execute m-m. " ; ( n-molesA n-ratioB n-ratioA --  )
 
